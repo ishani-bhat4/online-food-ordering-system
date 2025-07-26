@@ -43,11 +43,12 @@ Key benefits include:
 
 ## 📈 ER Diagram
 
-![ER Diagram](image.png)
+![ER Diagram](ER_diagram.png)
 
 ---
 
 ## 📊 Relational Schema
+![Relational Schema](relational_diagram.png)
 
 ```sql
 Customer(CustomerID, Name, Email, Phone, Address)
