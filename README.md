@@ -43,9 +43,7 @@ Key benefits include:
 
 ## 📈 ER Diagram
 
-*(Place an image inside an `images/` folder named `er_diagram.png` and it will be shown below)*
-
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](image.png)
 
 ---
 
